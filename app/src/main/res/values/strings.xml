@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Rekomdasi Film</string>
+    <string name="id_film">ID Film</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="tgl_rilis">Tanggal Rilis</string>
+    <string name="gambar">Ilustrasi Gambar</string>
+    <string name="caption">Caption Gambar</string>
+    <string name="genre">Genre</string>
+    <string name="rating">Rating</string>
+    <string name="sinopsis">Sinopsis Film</string>
+    <string name="link">Link Trailer Film</string>
+    <string name="tambah">Tambah Film</string>
+    <string name="edit">Edit Film</string>
+    <string name="hapus">Hapus Film</string>
+    <string name="bagikan">Bagikan Film</string>
+    <string name="pilih_tgl">Pilih</string>
+    <string name="tulisan_genre">Genre Film</string>
+    <string name="tulisan_tgl_rilis">Tanggal Rilis Film</string>
+    <string name="tulisan_sinopsis">Sinopsis Film</string>
+    <string name="tulisan_rating">Rating IMDb</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="data_film">Data Film</string>
+</resources>
